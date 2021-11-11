@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reece Wilkins</h1>
-<h3 align="center">BSc (Hons) Games Development Level 4 Staffordshire University</h3>
+<h3 align="center">Student Studying BSc (Hons) Games Development Level 4 Staffordshire University</h3>
 
 
 <h3 align="left">Connect with me:</h3>
