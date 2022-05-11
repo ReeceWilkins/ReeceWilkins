@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/reece07878472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reece07878472" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/reece-wilkins-5471221b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reece-wilkins-5471221b8" height="30" width="40" /></a>
-<a href="https://reecewilkins.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reece07878472" height="30" width="40" /></a>
+<a href="https://reecewilkins.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="reece07878472" height="30" width="40" /></a>
 </p>
 
 
